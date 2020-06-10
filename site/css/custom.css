@@ -1,0 +1,48 @@
+.text-red{
+    color: #da3a41;
+    margin-bottom:10px;
+}
+
+.text-gray{
+    color:#7b7b7c;
+    margin-bottom:1em;
+}
+
+.main-col-container{
+    /* padding:2em; */
+    /* margin-top:90px; */
+    margin: 90px auto;
+}
+
+.btn-gray{
+    color:#7b7b7c !important;
+}
+
+.heading-1{
+    font-size: 50px;
+    font-weight: 700;
+    
+}
+
+.main-heading{
+    padding-left:8em;
+}
+.main-heading-md{
+    padding:1em;
+}
+
+.about-item{
+    width:33% !important;
+}
+
+.about-skill{
+    padding-top:0.5em;
+}
+
+.no-bottom-margin{
+    margin-bottom: 10px;
+}
+
+.success-block{
+    margin-top:25%;
+}
